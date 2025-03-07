@@ -1,0 +1,113 @@
+.row{
+	width: 100%;
+	display: flex;
+}
+.col-1{
+	width: 8.33%;
+}
+.col-2{
+	width: 16.67%;
+}
+.col-3{
+	width: 25%;
+}
+.col-4{
+	width: 33.33%; 
+}
+.col-5{
+	width: 41.67%;
+}
+.col-6{
+	width: 50%;
+}
+.col-7{
+	width: 58.33%;
+}
+.col-8{
+	width: 66.67%;
+}
+.col-9{
+	width: 75%;
+}
+.col-10{
+	width: 83.33%;
+}
+.col-11{
+	width: 91.67%;
+}
+.col-12{
+	width: 100%;
+}
+.nav{
+	list-style-type: none;
+	text-decoration: none;
+	display: flex;
+}
+.around{
+	text-decoration: none;
+	color: #000;
+	padding-left: 50px;
+}
+.hero{
+	background-image: url("../images/rest/employees-885338_640.jpg");
+	height: 600px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin-bottom: 20px;
+}
+.master{
+	color: white;
+	font-size: 50px;
+	padding-top: 200px;
+}
+.must{
+	color: white;
+	font-size: 20px;
+}
+.younger{
+	margin-bottom: 30px;
+}
+.good{
+	margin: 8px;
+}
+input{
+	width: 600px;
+	border-radius: 15px;
+	height: 40px;
+}
+.older{
+	padding: 8px;
+	color: white;
+	background-color: green;
+	width: 100px;
+	height: 50px;
+}
+.end{
+	padding-left: 20px;
+	padding-bottom: 50px;
+}
+.two{
+	padding-top: 30px;
+}
+.cashback{
+	background-color: black;
+	border-radius: 5px;
+	margin-right: 15px;
+	border: 2px solid whitesmoke;
+	margin: 30px;
+	color: white;
+}
+.visit{
+	font-size: 20px;
+	padding-left: 20px;
+}.cash{
+	border-radius: 5px;
+	margin-right: 15px;
+	border: 2px solid whitesmoke;
+	margin: 30px;
+}
+
+
+
+
+
