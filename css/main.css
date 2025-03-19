@@ -106,6 +106,9 @@ input{
 	border: 2px solid whitesmoke;
 	margin: 30px;
 }
+.Instructors-img{
+	max-width: 100%;
+}
 
 
 
